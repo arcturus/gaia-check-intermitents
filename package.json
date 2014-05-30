@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "fs-extra": "^0.9.1",
+    "github": "^0.1.16",
+    "github-client": "^0.8.0",
+    "gitty": "^2.1.0",
+    "inireader": "^0.3.3",
+    "js-yaml": "^3.0.2",
+    "node-github": "0.0.3",
+    "q": "^1.0.1",
+    "yargs": "^1.2.2"
+  }
+}
